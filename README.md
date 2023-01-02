@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shibangidas109@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RrkUgSzYMVc3eC13_mecl-y4IwTc6GXS/view?usp=share_link)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibangid1996&label=Profile%20views&color=0e75b6&style=flat" alt="shibangid1996" /> </p>
