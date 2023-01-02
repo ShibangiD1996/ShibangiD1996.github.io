@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shibangi Das</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibangid1996&label=Profile%20views&color=0e75b6&style=flat" alt="shibangid1996" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibangid1996" alt="shibangid1996" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShibangiD1996](https://github.com/ShibangiD1996)
@@ -14,6 +10,12 @@
 - 📫 How to reach me **shibangidas109@gmail.com**
 
 - 📄 Know about my experiences [Resume](Resume)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibangid1996&label=Profile%20views&color=0e75b6&style=flat" alt="shibangid1996" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibangid1996" alt="shibangid1996" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
